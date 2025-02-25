@@ -11,3 +11,4 @@ This program has been written in Python with the Astropy and matplotlib, a knowl
    :maxdepth: 2
 
    Text
+   Text2
